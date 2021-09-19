@@ -12,14 +12,14 @@ One page site. First work on the courses WebCase front-end
 ### Used: html, сss
 ### Link:  [Instagram](https://ad-pol.github.io/viewing/2_Instagram/index.html)
 
-![Instagram](https://github.com/Ad-Pol/viewing/blob/gh-pages/2_Instagram/inst.png)
+[![Instagram](https://github.com/Ad-Pol/viewing/blob/gh-pages/2_Instagram/inst.png)](https://ad-pol.github.io/viewing/2_Instagram/index.html)
 
 ## 3. Mirage
 One page site. Second work on the courses WebCase front-end
 ### Used: html, сss, js
 ### Link:  [Mirage](https://ad-pol.github.io/viewing/3_Mirage/index.htm)
 
-![Mirage](https://github.com/Ad-Pol/viewing/blob/gh-pages/3_Mirage/Mirage.png)
+[![Mirage](https://github.com/Ad-Pol/viewing/blob/gh-pages/3_Mirage/Mirage.png)](https://ad-pol.github.io/viewing/3_Mirage/index.htm)
 
 ## 4. Trevland
 One page site. Third work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
@@ -27,7 +27,7 @@ One page site. Third work on the courses WebCase front-end. Using a compiler and
 #### Extra: Grid
 ### Link:  [Trevland](https://ad-pol.github.io/viewing/4_Trevland/templates/index.html)
 
-![Trevland](https://github.com/Ad-Pol/viewing/blob/gh-pages/4_Trevland/Trevland.png)
+[![Trevland](https://github.com/Ad-Pol/viewing/blob/gh-pages/4_Trevland/Trevland.png)](https://ad-pol.github.io/viewing/4_Trevland/templates/index.html)
 
 ## 5. Yandex
 One page site. Fourth work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
@@ -35,7 +35,7 @@ One page site. Fourth work on the courses WebCase front-end. Using a compiler an
 #### Extra: Responsive slider (Slick slider), add google map, working accordions
 ### Link:  [Yandex](https://ad-pol.github.io/viewing/5_Yandex/templates/index.html)
 
-![Yandex](https://github.com/Ad-Pol/viewing/blob/gh-pages/5_Yandex/Yandex.png)
+[![Yandex](https://github.com/Ad-Pol/viewing/blob/gh-pages/5_Yandex/Yandex.png)](https://ad-pol.github.io/viewing/5_Yandex/templates/index.html)
 
 ## 6. Flava
 One page site. Fifth work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
@@ -43,4 +43,4 @@ One page site. Fifth work on the courses WebCase front-end. Using a compiler and
 #### Extra: Responsive slider (Slick slider), form validator, timer and video as background when the button is pressed
 ### Link:  [Flava](https://ad-pol.github.io/viewing/6_Flava/templates/index.html)
 
-![Flava](https://github.com/Ad-Pol/viewing/blob/gh-pages/6_Flava/Flava.png)
+[![Flava](https://github.com/Ad-Pol/viewing/blob/gh-pages/6_Flava/Flava.png)](https://ad-pol.github.io/viewing/6_Flava/templates/index.html)
