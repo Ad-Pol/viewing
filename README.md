@@ -1,4 +1,4 @@
-# This repository will host my works for viewing in turn -> ![go to see works](https://github.com/Ad-Pol/viewing/tree/gh-pages)
+# This repository will host my works for viewing in turn -> [go to see works](https://github.com/Ad-Pol/viewing/tree/gh-pages)
 
 ## 1. Uber EATS
 2x pages site made in the final task on Stepik courses
