@@ -23,7 +23,7 @@ One page site. Second work on the courses WebCase front-end
 
 ## 4. Trevland
 One page site. Third work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
-### Used: html, scc, js
+### Used: html, scss, js
 #### Extra: Grid
 ### Link:  [Trevland](https://ad-pol.github.io/viewing/4_Trevland/templates/index.html)
 
@@ -31,7 +31,7 @@ One page site. Third work on the courses WebCase front-end. Using a compiler and
 
 ## 5. Yandex
 One page site. Fourth work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
-### Used: html, scc, js, jQuery
+### Used: html, scss, js, jQuery
 #### Extra: Responsive slider (Slick slider), add google map, working accordions
 ### Link:  [Yandex](https://ad-pol.github.io/viewing/5_Yandex/templates/index.html)
 
@@ -39,8 +39,16 @@ One page site. Fourth work on the courses WebCase front-end. Using a compiler an
 
 ## 6. Flava
 One page site. Fifth work on the courses WebCase front-end. Using a compiler and preprocessor SCSS
-### Used: html, scc, js, jQuery
+### Used: html, scss, js, jQuery
 #### Extra: Responsive slider (Slick slider), form validator, timer and video as background when the button is pressed
 ### Link:  [Flava](https://ad-pol.github.io/viewing/6_Flava/templates/index.html)
 
 [![Flava](https://github.com/Ad-Pol/viewing/blob/gh-pages/6_Flava/Flava.png)](https://ad-pol.github.io/viewing/6_Flava/templates/index.html)
+
+## 7. Startuprr
+One page site. Using a compiler and preprocessor SASS and PUG
+### Used pug, sass, js
+#### Extra: Responsive slider (Slick slider), add google map
+### Link:  [Startuprr](https://ad-pol.github.io/viewing/7_Sturtuprr/templates/index.html)
+
+[![Sturtuprr](https://github.com/Ad-Pol/viewing/blob/gh-pages/7_Sturtuprr/Startuprr.png)](https://ad-pol.github.io/viewing/7_Sturtuprr/templates/index.html)
