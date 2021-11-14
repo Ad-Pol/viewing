@@ -52,3 +52,11 @@ One page site. Using a compiler and preprocessor SASS and PUG
 ### Link:  [Startuprr](https://ad-pol.github.io/viewing/7_Sturtuprr/templates/index.html)
 
 [![Sturtuprr](https://github.com/Ad-Pol/viewing/blob/gh-pages/7_Sturtuprr/Startuprr.png)](https://ad-pol.github.io/viewing/7_Sturtuprr/templates/index.html)
+
+## 8. Luxed
+Using a compiler and preprocessor SASS and PUG
+### Used pug, sass, js
+#### Extra: Responsive slider (Swiper slider), add google map
+### Link:  [Startuprr](https://ad-pol.github.io/viewing/8_Luxed/templates/pages/index.html)
+
+[![Sturtuprr](https://github.com/Ad-Pol/viewing/blob/gh-pages/8_Luxed/Luxed.png)](https://ad-pol.github.io/viewing/8_Luxed/templates/pages/index.html)
