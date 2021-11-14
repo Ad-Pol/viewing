@@ -59,4 +59,4 @@ Using a compiler and preprocessor SASS and PUG
 #### Extra: Responsive slider (Swiper slider), add google map
 ### Link:  [Startuprr](https://ad-pol.github.io/viewing/8_Luxed/templates/pages/index.html)
 
-[![Sturtuprr](https://github.com/Ad-Pol/viewing/blob/gh-pages/8_Luxed/Luxed.png)](https://ad-pol.github.io/viewing/8_Luxed/templates/pages/index.html)
+[![Luxed](https://github.com/Ad-Pol/viewing/blob/gh-pages/8_Luxed/Luxed.png)](https://ad-pol.github.io/viewing/8_Luxed/templates/pages/index.html)
